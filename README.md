@@ -1,7 +1,7 @@
 # MechaCar_Statistical_Analysis
 ## R unit project: Car Mechanical Data
 ### Project Overview
-The objective for this project was to use data to assist the decision makers at "AutosRUs," a new car manufacturer, in adressing problems with a new vehicle prototype. First, linear regression with multiple variables was used to determine which design factors contribute most directly to the fuel efficiency of a vehicle. 
+The objective for this project was to use data to assist the decision makers at "AutosRUs," a new car manufacturer, in adressing problems with a new vehicle prototype known as the MechaCar. First, linear regression with multiple variables was used to determine which design factors contribute most directly to the fuel efficiency of a vehicle. Then, two tests were used to determine the nature of problems with the manufacturing of the vehicles' suspensions, in an effort to identify whether any of the three manufactured lots were particularly problematic. Lastly, some further testing is described that would help compare the MechaCar to its competition.
 
 ## Analysis
 ## Linear Regression to Predict MPG
